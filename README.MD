@@ -1,8 +1,11 @@
 # Pantip Social Listener 👂
 
-🚀 [Open the App](https://pantipsociallistener.streamlit.app/)
-
 A Streamlit-based social listening application that scrapes and analyzes Pantip forum discussions using Google's Gemini AI for sentiment analysis and aspect-based summarization.
+
+🚀 [Try Our App UI](https://pantipsociallistener.streamlit.app/)
+
+You can try the app's user interface online, but **full scraping and analysis features (using Selenium) require running the code locally**.  
+**Note:** The online demo cannot perform full scraping because Selenium and browser automation are not supported on Streamlit Cloud.  
 
 ## Features
 
